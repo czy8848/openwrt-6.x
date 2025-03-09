@@ -5,4 +5,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git video https://github.com/openwrt/video.git
 src-git nss_packages https://github.com/LiBwrt/nss-packages.git
 
-src-git nas https://github.com/linkease/nas-packages-luci.git
+
+
+
+
